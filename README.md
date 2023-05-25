@@ -8,10 +8,10 @@ actively tracks the ip of people logging into your account
     git clone https://github.com/Roblox-Devs/roblox-login-logger.git
     cd roblox-login-logger
     ```
-2. Run with [nodejs](https://nodejs.org/en):
+2. Install all dependencies and run with [nodejs](https://nodejs.org/en):
 
     ```txt
-    node index.js
+    npm i && node index.js
     ```
 3. Input your cookie when it asks you for a cookie
 4. It should start tracking.
