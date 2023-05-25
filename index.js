@@ -32,5 +32,5 @@ rl.question('Input your cookie: ', (answer) => {
     console.log("Started listening for logins.")
     setInterval(() => {
         logStart()
-    }, 1000);
+    }, 2000);
 });
